@@ -91,7 +91,7 @@ function Content() {
               </CardContent>
             </Card>
           </Grid>
-          {/* <Grid item sm={6} md={6}>
+          <Grid item sm={6} md={6}>
             <Card>
               <CardMedia
                 component="img"
@@ -115,7 +115,7 @@ function Content() {
                 </Typography>
               </CardContent>
             </Card>
-          </Grid> */}
+          </Grid>
         </Grid>
       </Grid>
     </Grid>
