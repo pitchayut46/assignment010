@@ -27,7 +27,7 @@ const imagx = [
 const Rightbar = () => {
   return (
     <Box sx={{ display: { xs: "none", md: "block" } }} paddingRight={5}>
-      <Box display={"flex"} flexDirection={"column"} marginTop={2} marginBottom={2} m>
+      <Box display={"flex"} flexDirection={"column"} marginTop={2} marginBottom={2}>
         <Typography variant="h6" fontWeight={100}>
           Latest Photos
         </Typography>
